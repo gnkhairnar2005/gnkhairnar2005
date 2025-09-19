@@ -1,124 +1,22 @@
-# 👨‍💻 Ganesh Khairnar
-## Passionate Frontend Developer from India
+<h1 align="center">Hi 👋, I'm Ganesh Khairnar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnkhairnar2005&label=Profile%20views&color=0e75b6&style=flat" alt="gnkhairnar2005" /> </p>
 
-### 🚀 About Me
-Hi there! 👋 I'm Ganesh Khairnar, a dedicated frontend developer with a passion for creating innovative web solutions. I love turning ideas into reality through clean, efficient code and modern technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnkhairnar2005" alt="gnkhairnar2005" /></a> </p>
 
-📧 **Contact:** gnkhairnar2005@gmail.com  
-💼 **LinkedIn:** [Ganesh Khairnar](https://linkedin.com/in/ganesh khairnar)  
-🐱 **GitHub:** @gnkhairnar2005
+- 📫 How to reach me **gnkhairnar2005@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ganesh khairnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh khairnar" height="30" width="40" /></a>
+</p>
 
-### 📊 Quick Stats
-```
-🎯 Programming Languages: 15+
-🚀 Projects Completed: 50+
-⭐ GitHub Contributions: 100+
-📈 Years of Experience: 2+
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnkhairnar2005&show_icons=true&locale=en&layout=compact" alt="gnkhairnar2005" /></p>
 
-### 💻 Technical Skills & Expertise
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnkhairnar2005&show_icons=true&locale=en" alt="gnkhairnar2005" /></p>
 
-#### **Frontend Development**
-- 🅰️ Angular - Advanced framework expertise
-- ⚡ JavaScript - Core language proficiency
-- 🔥 Svelte - Modern reactive framework
-- 💚 Vue.js - Progressive framework experience
-- 📊 CanvasJS - Data visualization
-
-#### **Mobile Development**
-- 📱 Android - Native app development
-
-#### **Backend & Databases**
-- 💚 Node.js - Server-side JavaScript
-- 🍃 MongoDB - NoSQL database
-- 🐬 MySQL - Relational database
-- 🗄️ Microsoft SQL Server - Enterprise database
-- 🔶 Oracle - Database management
-
-#### **Programming Languages**
-- ⚡ C/C++ - System programming
-- ☕ Java - Object-oriented programming
-- 🐍 Python - Versatile scripting & development
-- 🧠 TensorFlow - Machine learning framework
-
-#### **Development Tools**
-- 🔧 Git - Version control
-- 🐧 Linux - Operating system proficiency
-
----
-
-### 🏆 Achievements & Recognition
-```
-🏅 GitHub Profile Trophy Collection
-📈 Consistent contribution streak
-⭐ Growing repository collection
-🌟 Active in open source community
-```
-
----
-
-### 💼 Professional Focus Areas
-
-**🎨 Frontend Specialization**
-Creating responsive, user-friendly interfaces with modern frameworks and libraries
-
-**📱 Cross-Platform Development** 
-Building applications that work seamlessly across different platforms and devices
-
-**🔍 Data Visualization**
-Developing interactive charts and dashboards for better data representation
-
-**🤖 Emerging Technologies**
-Exploring AI/ML integration in web applications with TensorFlow
-
----
-
-### 🌟 What Sets Me Apart
-
-✨ **Modern Tech Stack Mastery**
-- Proficient in latest frontend frameworks
-- Full-stack development capabilities
-- Database design and optimization
-
-🚀 **Continuous Learning Mindset**
-- Always exploring new technologies
-- Contributing to open source projects
-- Building innovative solutions
-
-🎯 **Problem-Solving Approach**
-- Clean, maintainable code practices
-- Performance optimization focus
-- User experience prioritization
-
----
-
-### 📞 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss new opportunities!
-
-📧 **Email:** gnkhairnar2005@gmail.com  
-💼 **LinkedIn:** Connect with me for professional networking  
-🐱 **GitHub:** Check out my latest projects and contributions  
-
----
-
-### 🎯 Currently Working On
-- Advanced frontend projects with modern frameworks
-- Open source contributions
-- Expanding skills in AI/ML integration
-- Building innovative web solutions
-
----
-
-*"Passionate about turning ideas into digital reality through code"* ✨
-
----
-
-**Portfolio Last Updated:** September 2025  
-**Status:** 🟢 Available for new opportunities
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnkhairnar2005&" alt="gnkhairnar2005" /></p>
